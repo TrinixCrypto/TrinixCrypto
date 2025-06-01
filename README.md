@@ -22,7 +22,10 @@
 
 ## 📚 Currently Learning
 - Machine Learning with Python
-- Advanced Network Security Concepts
+- Improving my Ethical Hacking & Pentesting skills
+- Applied Finanical Crime and Investigation
+- Cyber Security Defence and Incident Response
+- Software Projects
 
 ## Connect with me  
 * <img height="20" src="https://www.edigitalagency.com.au/wp-content/uploads/Discord-logo-icon-clyde-blurple-png.png"> **Discord:** <a href="https://discordapp.com/users/192210511180333059" target="_blank">@trinix.</a>
