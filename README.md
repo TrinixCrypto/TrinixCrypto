@@ -28,7 +28,7 @@
 - Software Projects
 
 ## Connect with me  
-* <img height="20" src="https://www.edigitalagency.com.au/wp-content/uploads/Discord-logo-icon-clyde-blurple-png.png"> **Discord:** <a href="https://discordapp.com/users/192210511180333059" target="_blank">@trinix.</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/192210511180333059)](https://discord.com/users/192210511180333059)
 
 
 ---
