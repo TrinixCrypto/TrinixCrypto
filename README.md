@@ -28,7 +28,7 @@
 - Software Projects
 
 ## Connect with me  
-[![Discord Presence](https://lanyard.cnrad.dev/api/192210511180333059)](https://discord.com/users/192210511180333059)
+[![Discord Presence](https://lanyard.cnrad.dev/api/192210511180333059?animatedDecoration=true&hideActivity=whenNotUsed&showDisplayName=true)](https://discord.com/users/192210511180333059)
 
 
 ---
